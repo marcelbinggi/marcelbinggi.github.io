@@ -1,5 +1,4 @@
-# WGTIK_2021
-Base code for personal website exercise for WGTIK 2021
+Halo semuanya nama, saya Marcel Binggi.
+Berikut ini tautan github page saya.
 
-example result:
-[https://marcelbinggi.github.io](https://adf-telkomuniv.github.io/WGTIK_2021/)
+[https://marcelbinggi.github.io](https://marcelbinggi.github.com)
